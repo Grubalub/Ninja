@@ -12,6 +12,6 @@ func main() {
 	z := true
 	fmt.Println(z)
 
-    fmt.Println(x, y, z)
+	fmt.Println(x, y, z)
 
 }
